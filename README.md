@@ -1,8 +1,8 @@
 # Super Heroes Capstone React Redux
 Goal list is a React Native app for set your list of goals.
 
-![screenshot](./assets/images/screen.png)
-![screenshot](./assets/images/screen1.png)
+<img src="./assets/images/screen.png" width="200"/>
+<img src="./assets/images/screen1.png" width="200"/>
 
 
 ## Built With
