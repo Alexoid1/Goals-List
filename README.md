@@ -10,9 +10,9 @@ Goal list is a React Native app for set your list of goals.
 
 
 ### Prerequisites
-Node
-Android Studio
-Xcode
+- Node
+- Android Studio
+- Xcode
 
 ## Getting Started
 
