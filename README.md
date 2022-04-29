@@ -35,7 +35,7 @@ Goal list is a React Native app for set your list of goals.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Alexoid1/Goals-list.git).
+Feel free to check the [issues page](https://github.com/Alexoid1/Goals-list/issues).
 
 
 ## 📝 License
